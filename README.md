@@ -1,7 +1,7 @@
 # Slightly Better Bedrock - Version 1.0.0
-Minecraft Bedrock resource pack and behavior pack. This pack is aiming to improve the vanilla gameplay by bringing back older recipes that have been removed and even adding recipes some wish we had.
+Minecraft Bedrock resource pack and behavior pack. This pack is aiming to improve the vanilla gameplay by bringing back older recipes that have been removed and even adding recipes some wish we had. This pack will have achivements enabled when the spring update with the addon achivements feature is released. If used before hand, you will need to nbt modify your would data and reenable achivements and should be smooth sailing.
 
-# Future Plans
+# Update Future
   - Add the ability to dismantle leather armor into leather
   - Add the missing but not forgotten recipe to turn wool blocks into string
 
@@ -81,4 +81,4 @@ Minecraft Bedrock resource pack and behavior pack. This pack is aiming to improv
     - Crossbow
     - Fishing Rod
     - Fishing Rod - Carrot On A Stick
-    - Fishinf Rod - Warped Fungus On A Stick
+    - Fishing Rod - Warped Fungus On A Stick
