@@ -1,0 +1,23 @@
+{
+    "format_version":"1.21.50",
+    "minecraft:recipe_furnace":
+    {
+        "description":
+        {
+            "identifier":"minecraft:furnace_diamond_shovel"
+        },
+        "unlock":
+        [
+            {
+                "item":"minecraft:diamond_shovel"
+            }
+        ],
+        "tags":
+        [
+            "furnace",
+            "blast_furnace"
+        ],
+        "input":"minecraft:diamond_shovel",
+        "output":"minecraft:diamond"
+    }
+}

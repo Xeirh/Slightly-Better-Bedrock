@@ -1,0 +1,23 @@
+{
+    "format_version":"1.21.50",
+    "minecraft:recipe_furnace":
+    {
+        "description":
+        {
+            "identifier":"minecraft:wooden_axe"
+        },
+        "unlock":
+        [
+            {
+                "item":"minecraft:wooden_axe"
+            }
+        ],
+        "tags":
+        [
+            "furnace",
+            "blast_furnace"
+        ],
+        "input":"minecraft:wooden_axe",
+        "output":"minecraft:charcoal"
+    }
+}

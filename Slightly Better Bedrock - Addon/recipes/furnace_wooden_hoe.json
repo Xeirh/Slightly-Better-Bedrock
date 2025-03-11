@@ -1,0 +1,23 @@
+{
+    "format_version":"1.21.50",
+    "minecraft:recipe_furnace":
+    {
+        "description":
+        {
+            "identifier":"minecraft:wooden_hoe"
+        },
+        "unlock":
+        [
+            {
+                "item":"minecraft:wooden_hoe"
+            }
+        ],
+        "tags":
+        [
+            "furnace",
+            "blast_furnace"
+        ],
+        "input":"minecraft:wooden_hoe",
+        "output":"minecraft:charcoal"
+    }
+}

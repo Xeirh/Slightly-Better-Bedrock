@@ -1,0 +1,41 @@
+{
+    "format_version":"1.21.50",
+    "minecraft:recipe_shaped":
+    {
+        "description":
+        {
+            "identifier":"minecraft:golden_horse_armor"
+        },
+        "tags":
+        [
+            "crafting_table"
+        ],
+        "key":
+        {
+            "a":
+            {
+                "item":"minecraft:gold_ingot"
+            }
+        },
+        "pattern":
+        [
+            "  a",
+            "aaa",
+            "a a"
+        ],
+        "unlock":
+        [
+            {
+                "item":"minecraft:gold_ingot"
+            },
+            {
+                "item":"minecraft:golden_horse_armor"
+            }
+        ],
+        "result":
+        {
+            "item":"minecraft:golden_horse_armor",
+            "count":1
+        }
+    }
+}

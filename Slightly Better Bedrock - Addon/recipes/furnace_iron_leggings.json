@@ -1,0 +1,23 @@
+{
+    "format_version":"1.21.50",
+    "minecraft:recipe_furnace":
+    {
+        "description":
+        {
+            "identifier":"minecraft:furnace_iron_leggings"
+        },
+        "unlock":
+        [
+            {
+                "item":"minecraft:iron_leggings"
+            }
+        ],
+        "tags":
+        [
+            "furnace",
+            "blast_furnace"
+        ],
+        "input":"minecraft:iron_leggings",
+        "output":"minecraft:iron_ingot"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "format_version":"1.21.50",
+    "minecraft:recipe_shaped":
+    {
+        "description":
+        {
+            "identifier":"minecraft:trident"
+        },
+        "tags":
+        [
+            "crafting_table"
+        ],
+        "key":
+        {
+            "a":
+            {
+                "item":"minecraft:iron_ingot"
+            },
+            "b":
+            {
+                "item":"minecraft:prismarine_shard"
+            }
+        },
+        "pattern":
+        [
+            "aaa",
+            " b ",
+            " b "
+        ],
+        "unlock":
+        [
+            {
+                "item":"minecraft:iron_ingot"
+            },
+            {
+                "item":"minecraft:prismarine_shard"
+            },
+            {
+                "item":"minecraft:trident"
+            }
+        ],
+        "result":
+        {
+            "item":"minecraft:trident",
+            "count":1
+        }
+    }
+}

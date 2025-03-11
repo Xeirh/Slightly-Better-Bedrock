@@ -1,0 +1,36 @@
+{
+    "format_version":"1.21.50",
+    "minecraft:recipe_shaped":
+    {
+        "description":
+        {
+            "identifier":"minecraft:crossbow_string"
+        },
+        "tags":
+        [
+            "crafting_table"
+        ],
+        "key":
+        {
+            "a":
+            {
+                "item":"minecraft:crossbow"
+            }
+        },
+        "pattern":
+        [
+            "a"
+        ],
+        "unlock":
+        [
+            {
+                "item":"minecraft:crossbow"
+            }
+        ],
+        "result":
+        {
+            "item":"minecraft:string",
+            "count":1
+        }
+    }
+}

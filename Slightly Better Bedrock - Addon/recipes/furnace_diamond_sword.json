@@ -1,0 +1,23 @@
+{
+    "format_version":"1.21.50",
+    "minecraft:recipe_furnace":
+    {
+        "description":
+        {
+            "identifier":"minecraft:furnace_diamond_sword"
+        },
+        "unlock":
+        [
+            {
+                "item":"minecraft:diamond_sword"
+            }
+        ],
+        "tags":
+        [
+            "furnace",
+            "blast_furnace"
+        ],
+        "input":"minecraft:diamond_sword",
+        "output":"minecraft:diamond"
+    }
+}

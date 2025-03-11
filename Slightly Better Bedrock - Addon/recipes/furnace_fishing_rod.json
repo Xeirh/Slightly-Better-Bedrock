@@ -1,0 +1,23 @@
+{
+    "format_version":"1.21.50",
+    "minecraft:recipe_furnace":
+    {
+        "description":
+        {
+            "identifier":"minecraft:furnace_fishing_rod"
+        },
+        "unlock":
+        [
+            {
+                "item":"minecraft:fishing_rod"
+            }
+        ],
+        "tags":
+        [
+            "furnace",
+            "blast_furnace"
+        ],
+        "input":"minecraft:fishing_rod",
+        "output":"minecraft:charcoal"
+    }
+}

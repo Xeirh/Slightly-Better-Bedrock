@@ -1,0 +1,37 @@
+{
+    "format_version":"1.21.50",
+    "minecraft:recipe_shaped":
+    {
+        "description":
+        {
+            "identifier":"minecraft:bow_string"
+        },
+        "priority": 2,
+        "tags":
+        [
+            "crafting_table"
+        ],
+        "key":
+        {
+            "a":
+            {
+                "item":"minecraft:bow"
+            }
+        },
+        "pattern":
+        [
+            "a"
+        ],
+        "unlock":
+        [
+            {
+                "item":"minecraft:bow"
+            }
+        ],
+        "result":
+        {
+            "item":"minecraft:string",
+            "count":1
+        }
+    }
+}

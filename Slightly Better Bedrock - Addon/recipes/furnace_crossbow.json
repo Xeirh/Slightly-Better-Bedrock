@@ -1,0 +1,23 @@
+{
+    "format_version":"1.21.50",
+    "minecraft:recipe_furnace":
+    {
+        "description":
+        {
+            "identifier":"minecraft:crossbow"
+        },
+        "unlock":
+        [
+            {
+                "item":"minecraft:crossbow"
+            }
+        ],
+        "tags":
+        [
+            "furnace",
+            "blast_furnace"
+        ],
+        "input":"minecraft:crossbow",
+        "output":"minecraft:charcoal"
+    }
+}

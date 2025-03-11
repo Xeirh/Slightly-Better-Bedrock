@@ -1,0 +1,23 @@
+{
+    "format_version":"1.21.50",
+    "minecraft:recipe_furnace":
+    {
+        "description":
+        {
+            "identifier":"minecraft:furnace_diamond_horse_armor"
+        },
+        "unlock":
+        [
+            {
+                "item":"minecraft:diamond_horse_armor"
+            }
+        ],
+        "tags":
+        [
+            "furnace",
+            "blast_furnace"
+        ],
+        "input":"minecraft:diamond_horse_armor",
+        "output":"minecraft:diamond"
+    }
+}

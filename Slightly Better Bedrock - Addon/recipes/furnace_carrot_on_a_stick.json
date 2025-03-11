@@ -1,0 +1,23 @@
+{
+    "format_version":"1.21.50",
+    "minecraft:recipe_furnace":
+    {
+        "description":
+        {
+            "identifier":"minecraft:furnace_carrot_on_a_stick"
+        },
+        "unlock":
+        [
+            {
+                "item":"minecraft:carrot_on_a_stick"
+            }
+        ],
+        "tags":
+        [
+            "furnace",
+            "blast_furnace"
+        ],
+        "input":"minecraft:carrot_on_a_stick",
+        "output":"minecraft:charcoal"
+    }
+}

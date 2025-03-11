@@ -1,0 +1,23 @@
+{
+    "format_version":"1.21.50",
+    "minecraft:recipe_furnace":
+    {
+        "description":
+        {
+            "identifier":"minecraft:furnace_diamond_axe"
+        },
+        "unlock":
+        [
+            {
+                "item":"minecraft:diamond_axe"
+            }
+        ],
+        "tags":
+        [
+            "furnace",
+            "blast_furnace"
+        ],
+        "input":"minecraft:diamond_axe",
+        "output":"minecraft:diamond"
+    }
+}

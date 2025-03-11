@@ -1,0 +1,41 @@
+{
+    "format_version":"1.21.50",
+    "minecraft:recipe_shaped":
+    {
+        "description":
+        {
+            "identifier":"minecraft:iron_horse_armor"
+        },
+        "tags":
+        [
+            "crafting_table"
+        ],
+        "key":
+        {
+            "a":
+            {
+                "item":"minecraft:iron_ingot"
+            }
+        },
+        "pattern":
+        [
+            "  a",
+            "aaa",
+            "a a"
+        ],
+        "unlock":
+        [
+            {
+                "item":"minecraft:iron_ingot"
+            },
+            {
+                "item":"minecraft:iron_horse_armor"
+            }
+        ],
+        "result":
+        {
+            "item":"minecraft:iron_horse_armor",
+            "count":1
+        }
+    }
+}

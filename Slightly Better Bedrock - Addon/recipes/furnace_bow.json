@@ -1,0 +1,23 @@
+{
+    "format_version":"1.21.50",
+    "minecraft:recipe_furnace":
+    {
+        "description":
+        {
+            "identifier":"minecraft:bow"
+        },
+        "unlock":
+        [
+            {
+                "item":"minecraft:bow"
+            }
+        ],
+        "tags":
+        [
+            "furnace",
+            "blast_furnace"
+        ],
+        "input":"minecraft:bow",
+        "output":"minecraft:charcoal"
+    }
+}
