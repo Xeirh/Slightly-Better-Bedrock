@@ -1,0 +1,36 @@
+{
+    "format_version":"1.21.50",
+    "minecraft:recipe_shaped":
+    {
+        "description":
+        {
+            "identifier":"minecraft:wool_string"
+        },
+        "tags":
+        [
+            "crafting_table"
+        ],
+        "key":
+        {
+            "a":
+            {
+                "item":"minecraft:wool"
+            }
+        },
+        "pattern":
+        [
+            "a"
+        ],
+        "unlock":
+        [
+            {
+                "item":"minecraft:wool"
+            }
+        ],
+        "result":
+        {
+            "item":"minecraft:string",
+            "count":4
+        }
+    }
+}

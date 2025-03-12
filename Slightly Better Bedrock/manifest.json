@@ -5,7 +5,7 @@
         "description":"pack.description",
         "name":"pack.name",
         "uuid":"ce7cbcb4-e694-41ae-8bf8-12af46c7c4ff",
-        "version":[1,0,0],
+        "version":[1,0,1],
         "min_engine_version":[1,21,50],
         "pack_scope":"world"
     },
@@ -15,14 +15,14 @@
             "description":"pack.description",
             "type":"resources",
             "uuid":"3ccc8f18-c80f-45e9-bf69-53a8ef6710aa",
-            "version":[1,0,0]
+            "version":[1,0,1]
         }
     ],
     "dependencies":
     [
         {
             "uuid":"693ff6d4-8d9e-4769-a7e8-f5f0f006eb92",
-            "version":[1,0,0]
+            "version":[1,0,1]
         }
     ],
     "metadata":

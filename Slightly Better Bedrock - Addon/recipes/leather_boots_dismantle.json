@@ -1,0 +1,36 @@
+{
+    "format_version":"1.21.50",
+    "minecraft:recipe_shaped":
+    {
+        "description":
+        {
+            "identifier":"minecraft:leather_boots_leather"
+        },
+        "tags":
+        [
+            "crafting_table"
+        ],
+        "key":
+        {
+            "a":
+            {
+                "item":"minecraft:leather_boots"
+            }
+        },
+        "pattern":
+        [
+            "a"
+        ],
+        "unlock":
+        [
+            {
+                "item":"minecraft:leather_boots"
+            }
+        ],
+        "result":
+        {
+            "item":"minecraft:leather",
+            "count":1
+        }
+    }
+}

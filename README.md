@@ -1,14 +1,17 @@
-# Slightly Better Bedrock - Version 1.0.0
-Minecraft Bedrock resource pack and behavior pack. This pack is aiming to improve the vanilla gameplay by bringing back older recipes that have been removed and even adding recipes some wish we had. This pack will have achivements enabled when the spring update with the addon achivements feature is released. If used before hand, you will need to nbt modify your would data and reenable achivements and should be smooth sailing.
+# Slightly Better Bedrock - Version 1.0.1
+Minecraft Bedrock resource pack and behavior pack. This pack is aiming to improve the vanilla gameplay by bringing back older recipes that have been removed and even adding recipes some wish we had. This pack will have achivements enabled when the spring update feature is released. If used before hand, you will need to nbt modify your would data and re-enable achivements and after that you can enjoy.
 
 # Update Future
-  - Add the ability to dismantle leather armor into leather
-  - Add the missing but not forgotten recipe to turn wool blocks into string
+  - Adding Furnace Minecart Back
+
+# Update Catalog
+ - Recipe Format Version 1.21.50 Stable
+ - Item Format Version 1.21.30 Stable
 
 # Resource Pack Features
 - Removed item root text panel from hot bar.
   - Done by overriding the animation functions for the destroy element wait times.
-- Improved visibility for suspicious sand, gravel and powdered snow.
+- Improved visibility for suspicious sand, suspicious gravel and powdered snow.
 
 # Behavior Pack Features
 - Crafting Recipes
@@ -29,11 +32,18 @@ Minecraft Bedrock resource pack and behavior pack. This pack is aiming to improv
 
 - Crafting Recipes Dismantling
   - String
+    - Wool
     - Bow
     - Crossbow
     - Fishing Rod
     - Fishing Rod - Carrot On A Stick
     - Fishing Rod - Warped Fungus On A Stick
+  - Leather
+    - Leather Helmet
+    - Leather Chestplate
+    - Leather Leggings
+    - Leater Boots
+    - Leather Horse Armor
 
 - Furnace Recipes
   - Mineral based items will convert into ingots instead of nuggets.
