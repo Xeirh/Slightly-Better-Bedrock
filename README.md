@@ -4,9 +4,15 @@ Minecraft Bedrock resource pack and behavior pack. This pack is aiming to improv
 # Update Future
   - Adding Furnace Minecart Back
 
-# Update Catalog
- - Recipe Format Version 1.21.50 Stable
- - Item Format Version 1.21.30 Stable
+# Formatting
+  - Minimum Engine Version 1.21.50 
+  - Recipe Format Version 1.21.50
+  - Item Format Version 1.21.30
+
+# Issues
+  - If ever hit with the `"Error when applying content. Some of the selected content could not be applied."` on realms. This can be fixed by generating four new uuids for the manifest.json for both packs, Two unique uuids for the resource and two unique uuids for the behavior. Inside the dependencies, you will see another uuid. This is the uuid from the other packs header. For these packs to work correctly, you need to use the resource header uuid inside the behavior dependencies and vice versa.
+
+https://www.uuidtools.com/minecraft
 
 # Resource Pack Features
 - Removed item root text panel from hot bar.
